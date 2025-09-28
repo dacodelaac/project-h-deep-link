@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "77JFGHGK85.com.panthera.boxheadzombiesmustdie"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "77JFGHGK85.com.panthera.boxheadzombiesmustdie"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "77JFGHGK85.com.panthera.boxheadzombiesmustdie"
+    ]
+  }
+}
